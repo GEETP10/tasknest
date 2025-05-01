@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tasknest/static/css/main.baa2437e.css",
+    "main.js": "/tasknest/static/js/main.568262ad.js",
+    "index.html": "/tasknest/index.html",
+    "main.baa2437e.css.map": "/tasknest/static/css/main.baa2437e.css.map",
+    "main.568262ad.js.map": "/tasknest/static/js/main.568262ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baa2437e.css",
+    "static/js/main.568262ad.js"
+  ]
+}
